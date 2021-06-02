@@ -1,5 +1,19 @@
 # Change Log
 
+## 1.5.2
+
+### Patch Changes
+
+- [`8acd3c11a`](https://github.com/chakra-ui/chakra-ui/commit/8acd3c11a80271b0dca4b7a8922c59b8969d5401)
+  [#4102](https://github.com/chakra-ui/chakra-ui/pull/4102) Thanks
+  [@cschroeter](https://github.com/cschroeter)! - fix(tabs): render tab
+  indicator at the correct pos
+
+* [`afb9b3cfa`](https://github.com/chakra-ui/chakra-ui/commit/afb9b3cfa87076ed8897b7edd4a9d9f1e1701721)
+  [#4103](https://github.com/chakra-ui/chakra-ui/pull/4103) Thanks
+  [@with-heart](https://github.com/with-heart)! - Update transitions to use
+  theme tokens and remove outline transitions
+
 ## 1.5.1
 
 ### Patch Changes

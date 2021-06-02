@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.2.8
+
+### Patch Changes
+
+- [`afb9b3cfa`](https://github.com/chakra-ui/chakra-ui/commit/afb9b3cfa87076ed8897b7edd4a9d9f1e1701721)
+  [#4103](https://github.com/chakra-ui/chakra-ui/pull/4103) Thanks
+  [@with-heart](https://github.com/with-heart)! - Update transitions to use
+  theme tokens and remove outline transitions
+
+- Updated dependencies
+  [[`fe2557584`](https://github.com/chakra-ui/chakra-ui/commit/fe255758437b04740e1a0d8c8549afefe7dc71ce)]:
+  - @chakra-ui/cli@1.4.0
+  - @chakra-ui/react@1.6.4
+  - @chakra-ui/props-docs@1.0.29
+
 ## 1.2.7
 
 ### Patch Changes

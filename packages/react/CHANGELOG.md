@@ -1,5 +1,36 @@
 # Change Log
 
+## 1.6.4
+
+### Patch Changes
+
+- Updated dependencies
+  [[`8acd3c11a`](https://github.com/chakra-ui/chakra-ui/commit/8acd3c11a80271b0dca4b7a8922c59b8969d5401),
+  [`7e3d3ff35`](https://github.com/chakra-ui/chakra-ui/commit/7e3d3ff356b9f2e875790cd7a96ddfce83034737),
+  [`31ec6466c`](https://github.com/chakra-ui/chakra-ui/commit/31ec6466c2ddc7fffb8e8dfa0f7f241f189f96eb),
+  [`e8da4c65f`](https://github.com/chakra-ui/chakra-ui/commit/e8da4c65f026f636ea26d11b7aaed63f2babf00d),
+  [`f2c0480ee`](https://github.com/chakra-ui/chakra-ui/commit/f2c0480ee2bc4312837cac078e855b9555f47b61),
+  [`afb9b3cfa`](https://github.com/chakra-ui/chakra-ui/commit/afb9b3cfa87076ed8897b7edd4a9d9f1e1701721),
+  [`991ea2e29`](https://github.com/chakra-ui/chakra-ui/commit/991ea2e29746a501b79591228664702ce1277235)]:
+  - @chakra-ui/tabs@1.5.2
+  - @chakra-ui/button@1.4.0
+  - @chakra-ui/media-query@1.1.0
+  - @chakra-ui/transition@1.3.2
+  - @chakra-ui/stat@1.1.10
+  - @chakra-ui/accordion@1.3.3
+  - @chakra-ui/checkbox@1.5.3
+  - @chakra-ui/control-box@1.0.13
+  - @chakra-ui/menu@1.6.4
+  - @chakra-ui/modal@1.8.8
+  - @chakra-ui/number-input@1.2.7
+  - @chakra-ui/progress@1.1.10
+  - @chakra-ui/tag@1.1.10
+  - @chakra-ui/theme@1.9.1
+  - @chakra-ui/system@1.7.0
+  - @chakra-ui/skeleton@1.1.15
+  - @chakra-ui/toast@1.2.8
+  - @chakra-ui/switch@1.2.6
+
 ## 1.6.3
 
 ### Patch Changes

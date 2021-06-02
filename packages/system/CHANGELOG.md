@@ -1,5 +1,28 @@
 # Change Log
 
+## 1.7.0
+
+### Minor Changes
+
+- [`991ea2e29`](https://github.com/chakra-ui/chakra-ui/commit/991ea2e29746a501b79591228664702ce1277235)
+  [#3998](https://github.com/chakra-ui/chakra-ui/pull/3998) Thanks
+  [@terrierscript](https://github.com/terrierscript)! - The `styled` function
+  allows a functional `baseStyle` property:
+
+  ```js
+  import { styled } from '@chakra-ui/react'
+
+  const MyComponent = styled('div', {
+    baseStyle: (props) => ({
+      bg: props.highlightColor
+    })
+  })
+
+  // ...
+
+  <MyComponent highlightColor="red.500" />
+  ```
+
 ## 1.6.7
 
 ### Patch Changes
